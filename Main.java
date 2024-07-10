@@ -9,7 +9,7 @@ public class main {
     String[][] tel = new String[4][4];
 // CADASTRANDO DADOS
     nomes[0][0] = "MIKE";
-    tel[0][0] = "+55 84 8113-0087";
+    tel[0][0] = "+55 84 8113-00";
     nomes[1][1] = "Steve";
     tel[1][1] = "5584848";
     nomes[2][2] = "even";
